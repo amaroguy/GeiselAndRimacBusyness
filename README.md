@@ -7,7 +7,7 @@ The data is collected at 30 minute intervals by a cronjob running every 30 minut
 
 it just harvests data from
 
-https://waitz.io/api/ucsd
+https://waitz.io/live/ucsd
 
 
 I dont see why I would stop collecting this data, so I might update it yearly if it doesn't break along the way since the Waitz API has changed
